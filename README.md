@@ -4,6 +4,11 @@
 
 1차 데이터 수집 : YOLO v5를 이용하여 사람객체 탐지 후 탐지된 객체의 바운딩박스 이미지를 사용
 
+원본 이미지 : ![img900](https://user-images.githubusercontent.com/47483492/236686105-d1e68916-f5be-47b6-8a90-f49ececc8e5c.jpg)
+
+탐지된 객체 이미지 : ![img900](https://user-images.githubusercontent.com/47483492/236686044-4393992a-96ab-4c30-9393-07b0383999ed.jpg)
+
+
 2차 데이터 수집 : 1차에서 수집한 데이터를 CNN-LSTM모델에 사용하기위해 넘어지는 행위를 1 일반적으로 걷는 행위를 0으로 지정하여 분류한 후 각각 저장
 
 
