@@ -18,3 +18,6 @@
 - load_data함수를 사용하여 데이터를 로드하고 Numpy배열로 변환 data_path변수에 지정된 경로에 있는 이미지 데이터를 불러오고 sequence_length변수에 지정된 길이를 갖는 이미지 시퀀스를를생성후 라벨 0에 대해서는 900번부터 1093번까지의 이미지를 사용, 라벨 1에 대해서는 1093번 부터 1148번까지의 이미지를 사용
 
 
+전처리 후 이미지 : ![img900](https://user-images.githubusercontent.com/47483492/236686345-d0c29b1b-55e6-4e63-aef0-a2e32dc5ef2f.jpg)
+
+
